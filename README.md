@@ -1,16 +1,18 @@
-### Hi there 👋
+Hi there 👋 I'm Mohsin JAvaid!
+I'm Web Architect 🚀 from Lahore, Pakistan
 
-<!--
-**iammohssin/iammohssin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ About Me!
 
-Here are some ideas to get you started:
+software engineer - Photele (March, 2022 - Present)
+Backend experience: TypeScript, Node JS
+Databases experience: MongoDB,
+Frontend experience: React JS, Angular Material Ui, Bootstrap, jQuery
+How to reach me: muhsanjavaid@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Linkedin: https://www.linkedin.com/in/iammoshin/
+
+Languages and Tools:
+JavaScript/TypeScript,, Node JS
+MongoDB,
+React, Angular
+
