@@ -4,7 +4,9 @@ I'm Web Architect 🚀 from Lahore, Pakistan
 
 About Me!
 
-Web Developer - Photele (March, 2022 - Present)
+Backend Developer - Photele (February, 2023 - Present)
+
+Full Stack Web Developer - Photele (March, 2022 - Present)
 
 Backend experience: TypeScript, Node JS
 
