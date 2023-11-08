@@ -8,6 +8,8 @@ Backend Developer - WhetCloud (February, 2023 - Present)
 
 Full Stack Web Developer - Photele (March, 2022 - Present)
 
+FrontEnd Developer - OneByte (Dec, 2020 - February, 2022)
+
 Backend experience: TypeScript, Node JS
 
 Databases experience: MongoDB,
