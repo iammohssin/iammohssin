@@ -4,27 +4,38 @@ I'm Web Architect 🚀 from Lahore, Pakistan
 
 About Me!
 
-Backend Developer - WhetCloud (February, 2023 - Present)
+Backend Developer - ForunPoint (February, 2023 - Present)
 
 Full Stack Web Developer - Photele (March, 2022 - Present)
 
 FrontEnd Developer - OneByte (Dec, 2020 - February, 2022)
 
-Backend experience: TypeScript, Node JS
+Skills and Experience:
 
-Databases experience: MongoDB,
+Back-end:
+NodeJS, TypeScript, ES6-ES10
+API development, scaling, caching, and integrations (payment gateways)
+Experienced with GraphQL, NestJS, Koa JS, Hapi JS, ExpressJS
+Developed API documentation with Swagger
 
-Frontend experience: React JS, Angular Material Ui, Bootstrap, jQuery
+Databases:
+Proficient in MongoDB, Postgres/PostGIS, RDBMS, AWS DynamoDB
+Geo queries for restaurant-based systems, AWS RDS migrations
 
-How to reach me: muhsanjavaid@gmail.com
+Front-end:
+React, Angular, GraphQL, NextJS
+Material Design, Ant Design, Semantic UI, Bootstrap
+TypeScript, Redux, microfrontend architecture, custom components
 
-Linkedin: https://www.linkedin.com/in/iammoshin/
+Cloud (AWS):
+EC2, ELB, S3, CloudFront, Route 53, AWS Lambda
+Deployed and maintained applications, MySQL migrations
 
-Languages and Tools:
+AI / ChatGPT:
+Developed chatbots, worked with OpenAI APIs
+Extensive experience with GPT prompts and integrations
+Feel free to reach out to me for collaboration!
 
-JavaScript/TypeScript,, Node JS
-
-MongoDB,
-
-React, Angular
+Email: muhsanjavaid@gmail.com
+LinkedIn: linkedin.com/in/iammoshin
 
